@@ -11,7 +11,22 @@ img {
   font-size: 36px;
   font-weight: 900;
 }
+/* changing  */
+#wrapper{
+  text-align: center;
+}
+ section.type-plant{
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+  margin-top: 32px;
+ }
 
+
+ .plant-unit{
+  width: 200px;
+  /* word-wrap: wrap; */
+ }
 /* do not edit this footer */
 .footer {
   position: fixed;
